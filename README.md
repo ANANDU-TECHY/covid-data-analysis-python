@@ -1,6 +1,7 @@
 # COVID Data Analysis using Python
 
-This project analyzes COVID-19 data using Python.
+This project analyzes COVID-19 data using Python, Pandas, and Matplotlib.  
+It explores case trends in India and vaccination comparisons across countries.
 
 ## Tools Used
 - Python
@@ -21,3 +22,4 @@ COVID dataset from Our World in Data.
 
 ### Top Countries by Vaccinations
 ![Vaccinations](top_vaccinations.png)
+
