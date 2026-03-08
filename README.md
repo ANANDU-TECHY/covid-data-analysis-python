@@ -15,5 +15,9 @@ COVID dataset from Our World in Data.
 2. Top 10 countries by vaccinations
 
 ## Visualizations
-- India COVID case trend
-- Vaccination comparison across countries
+
+### India COVID Cases Trend
+![India Cases](india_cases.png)
+
+### Top Countries by Vaccinations
+![Vaccinations](top_vaccinations.png)
